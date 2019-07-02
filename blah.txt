@@ -1,4 +1,3 @@
 blah.txt
 blah.jpg
-blah.mpeg
-blah.mov
+hotfix
