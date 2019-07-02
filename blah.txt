@@ -1,3 +1,5 @@
 blah.txt
 blah.jpg
 hotfix
+blah.mpeg
+blah.mov
